@@ -142,7 +142,7 @@ pocetok,1 - 2
 
 pocetok,1-3
 
-За тест (Matej, 000, matej@gmail.com и непразна листа)
+За тест (Matej, 000, matej@example.com и непразна листа)
 
 Следните гранки ќе видат изминати:
 
